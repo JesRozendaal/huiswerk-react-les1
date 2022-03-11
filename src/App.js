@@ -31,25 +31,25 @@ function App() {
             category="Best seller"
             image={bag_1}
             text="The handy bag"
-            price="€400,-"
+            price="400"
           />
           <Products
             category="Best seller"
             image={bag_2}
             text="The stylish bag"
-            price="€250,-"
+            price="250"
             />
           <Products
               category="New collection"
               image={bag_3}
               text="The simple bag"
-              price="€300,-"
+              price="300"
               />
           <Products
               category="New collection"
               image={bag_4}
               text="The trendy bag"
-              price="€150,-"
+              price="150"
           />
         </main>
         <footer>
